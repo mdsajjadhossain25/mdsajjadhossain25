@@ -5,7 +5,7 @@
 - My Skills:
 - Markup: 
 -         1. Front-End development with HTML, CSS, JAVASCRIPT, BOOTSTRAP.
--         2. Back-End devlopment with NODE.JS and MONGODB
+-         2. Back-End devlopment with Django and MySQL
 -         3. Good communication and leadership skills.
 - 📫 contact me at md.sajjad.hossain.025@gmail.com
 
