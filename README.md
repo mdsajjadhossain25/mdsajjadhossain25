@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sajjad Hossain</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Md+Sajjad+Hossain;%F0%9F%94%A5+A+passionate+Backend+developer+from+Bangladesh;%F0%9F%92%BB+The+tech+stack+I+use+is+Laravel%2C+React%2C+Django%2C+TailwindCSS)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajjadhossain25" /> </p>
 
@@ -38,6 +37,16 @@
 <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">🏆 Recent Achievement</h3>
+
+<p align="center">
+  <figure>
+    <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/main/480227111_1032841538890439_247474762588192678_n.jpg" height="450" />
+    <figcaption align="center"><strong>Second Runner-Up</strong> – WebXtreme Hackathon 2025 🎉</figcaption>
+  </figure>
+</p>
+
 
 
 <h3 align="left">✅ Stat:</h3>
