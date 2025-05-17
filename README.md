@@ -39,15 +39,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-<h3 align="left">✅ Support:</h3>
+<h3 align="left">✅ Stat:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=nightowl&hide_border=false)<br/>
