@@ -2,21 +2,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajjadhossain25" /> </p>
 
-- 💼 Junior Software Engineer at **ShikkhaDeekha**
+- 💼 **Junior Software Engineer** at **ShikkhaDeekha**
+- 🔭 Currently working on **Human Action Recognition using TensorFlow**
+- ⚽ Passionate about **Football Automation Technology**
+- 🤝 Open to collaboration on **AI in Sports** and **Computer Vision Projects**
+- 💬 Ask me about: **Laravel, React, Django, TensorFlow**
+- 📫 Reach me at: **hmdsajjad840@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1iUAymnnyKLAtU0XQy-y8xjJHm0x2_EJA/view?usp=sharing)
 
-- 🔭 I’m currently working on **Human Activity Detection**
+---
 
-- 🌱 I’m currently learning **Spring Boot**
+#### 🛠️ My Tech Toolbox
 
-- 👯 I’m looking to collaborate on **Football Automation Technology**
+- **Backend**: Django, Laravel, PHP, Python  
+- **Frontend**: React, TailwindCSS, Bootstrap  
+- **Database**: MySQL, SQLite, PostgreSQL  
+- **Tools**: Git/Github, VS Code, Postman, GitKraken  
+- **AI/ML**: TensorFlow, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
 
-- 💬 Ask me about **Laravel, React, Django**
+---
 
-- 📫 How to reach me **hmdsajjad840@gmail.com**
+> ⚡ **Fun Fact**: I once built a full-stack app overnight because I thought sleep was overrated (it isn’t).
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/19gj_0DBZwqhwOZspiGsakp1zjgyu-wDX/edit?usp=sharing&ouid=103606758244524917212&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I think i can make people miss me.**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
