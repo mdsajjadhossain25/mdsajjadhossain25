@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Md+Sajjad+Hossain;%F0%9F%94%A5+A+passionate+Backend+developer+from+Bangladesh;%F0%9F%92%BB+The+tech+stack+I+use+is+Laravel%2C+React%2C+Django%2C+TailwindCSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Md+Sajjad+Hossain;%F0%9F%94%A5+A+passionate+FullStack+developer+from+Bangladesh;%F0%9F%92%BB+The+tech+stack+I+use+is+Laravel%2C+React%2C+Django%2C+TailwindCSS)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajjadhossain25" /> </p>
 
 - 💼 **Junior Software Engineer** at **ShikkhaDeekha**
-- 🔭 Currently working on **Human Action Recognition using TensorFlow**
+- 🔭 Currently working on **Human Action Recognition using DL**
 - ⚽ Passionate about **Football Automation Technology**
-- 🤝 Open to collaboration on **AI in Sports** and **Computer Vision Projects**
+- 🤝 Open to collaboration on **Computer Vision Projects**
 - 💬 Ask me about: **Laravel, React, Django, TensorFlow**
 - 📫 Reach me at: **hmdsajjad840@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1iUAymnnyKLAtU0XQy-y8xjJHm0x2_EJA/view?usp=sharing)
@@ -18,7 +18,7 @@
 - **Frontend**: React, TailwindCSS, Bootstrap  
 - **Database**: MySQL, SQLite, PostgreSQL  
 - **Tools**: Git/Github, VS Code, Postman, GitKraken  
-- **AI/ML**: TensorFlow, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
+- **AI/ML**: TensorFlow, PyTorch, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
 
 ---
 
