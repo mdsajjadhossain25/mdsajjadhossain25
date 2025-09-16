@@ -8,7 +8,7 @@
 - 🤝 Open to collaboration on **Computer Vision Projects**
 - 💬 Ask me about: **Laravel, React, Django, TensorFlow**
 - 📫 Reach me at: **hmdsajjad840@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1iUAymnnyKLAtU0XQy-y8xjJHm0x2_EJA/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1wL_qJ_HoQeMfMYU3VjlNvQZ0nHe9znpX/view?usp=sharing)
 
 ---
 
