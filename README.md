@@ -1,71 +1,195 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Md+Sajjad+Hossain;%F0%9F%94%A5+A+passionate+FullStack+developer+from+Bangladesh;%F0%9F%92%BB+The+tech+stack+I+use+is+Laravel%2C+React%2C+Django%2C+TailwindCSS)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajjadhossain25" /> </p>
+# 👋 Hi, I'm Md Sajjad Hossain
 
-- 💼 **Junior Software Engineer** at **ShikkhaDeekha**
-- 🔭 Currently working on **Human Action Recognition using DL**
-- ⚽ Passionate about **Football Automation Technology**
-- 🤝 Open to collaboration on **Computer Vision Projects**
-- 💬 Ask me about: **Laravel, React, Django, TensorFlow**
-- 📫 Reach me at: **hmdsajjad840@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1wL_qJ_HoQeMfMYU3VjlNvQZ0nHe9znpX/view?usp=sharing)
+### AI Engineer @ Deep Mind Labs AI
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Access+Control+Systems;Computer+Vision+%7C+Transformers+%7C+LLMs;Transforming+AI+Research+into+Production)](https://git.io/typing-svg)
 
-#### 🛠️ My Tech Toolbox
-
-- **Backend**: Django, Laravel, PHP, Python  
-- **Frontend**: React, TailwindCSS, Bootstrap  
-- **Database**: MySQL, SQLite, PostgreSQL  
-- **Tools**: Git/Github, VS Code, Postman, GitKraken  
-- **AI/ML**: TensorFlow, PyTorch, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
-
----
-
-> ⚡ **Fun Fact**: I once built a full-stack app overnight because I thought sleep was overrated (it isn’t).
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-sajjad-hossain25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sajjad-hossain25" height="30" width="40" /></a>
-<a href="https://kaggle.com/sajjad125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sajjad125" height="30" width="40" /></a>
-<a href="https://fb.com/md.sajjad.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.sajjad.01" height="30" width="40" /></a>
-<a href="https://instagram.com/md_sajjad25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_sajjad25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@teachtech896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@teachtech896" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sajjad125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajjad125" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sajjad125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajjad125" height="30" width="40" /></a>
-<a href="https://discord.gg/MJgQFBV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sajjad125" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">📝 Contributions Game:</h3>
-<img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🏆 Recent Achievement</h3>
-
-<p align="center">
-  <figure>
-    <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/main/480227111_1032841538890439_247474762588192678_n.jpg" height="450" />
-    <figcaption align="center"><strong>Second Runner-Up</strong> – WebXtreme Hackathon 2025 🎉</figcaption>
-  </figure>
+<p>
+  <img src="https://img.shields.io/badge/AI_Engineer-Deep_Mind_Labs-6366f1?style=for-the-badge&logo=brain&logoColor=white" alt="Role"/>
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision-ec4899?style=for-the-badge&logo=opencv&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-10b981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
+</div>
 
+<br/>
 
-<h3 align="left">✅ Stat:</h3>
+## 🚀 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajjadhossain25&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Building production-grade AI systems with a focus on **Computer Vision** and **Face Recognition**
 
+I'm currently working on the **Prime Bank Access Control** project — a sophisticated face recognition–based authorization system that emphasizes accuracy, security, and real‑world reliability. My passion lies in transforming cutting-edge AI research into practical, scalable solutions.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdsajjadhossain25&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Md Sajjad Hossain"
+        self.role = "AI Engineer"
+        self.company = "Deep Mind Labs AI"
+        self.current_project = "Prime Bank Access Control"
+        self.interests = ["Computer Vision", "Transformers", "LLMs"]
+        
+    def get_expertise(self):
+        return {
+            "Deep Learning": ["PyTorch", "TensorFlow", "Computer Vision"],
+            "Specialization": ["Face Recognition", "Object Detection", "NLP"],
+            "Production": ["Docker", "MLOps", "REST APIs"]
+        }
+```
 
-<p><a href="https://www.buymeacoffee.com/sajjad125"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajjad125" /></a></p><br><br>
+### 💡 Quick Facts
+
+- 🔭 **Currently Working On:** Prime Bank Access Control (Face Recognition System)
+- 🧠 **Research Interests:** Transformers, LLMs, Representation Learning
+- 💬 **Ask Me About:** Computer Vision, Deep Learning
+- 🤝 **Open to Collaborate:** AI/ML Projects, Computer Vision Applications
+- 📫 **Reach Me:** [hmdsajjad840@gmail.com](mailto:hmdsajjad840@gmail.com)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1wL_qJ_HoQeMfMYU3VjlNvQZ0nHe9znpX/view?usp=sharing)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core AI/ML
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+### Development & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/md-sajjad-hossain25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hmdsajjad840@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://kaggle.com/sajjad125" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.youtube.com/@teachtech896" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.leetcode.com/sajjad125" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/sajjad125" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+  <a href="https://discord.gg/MJgQFBV5" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/md_sajjad25" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/main/480227111_1032841538890439_247474762588192678_n.jpg" height="400" style="border-radius: 10px;"/>
+  
+  **🥉 Second Runner-Up** – WebXtreme Hackathon 2025
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+  
+If you find my work helpful or interesting, consider buying me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/sajjad125">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 💡 *"Turning AI Research into Real-World Solutions"*
+
+⭐ **Star my repositories if you find them useful!**
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" height="180"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajjadhossain25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/snake.svg" alt="Snake animation"/>
+</div>
+
+<br/>
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdsajjadhossain25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+</div>
+
+<br/>
+
+---
+
+<p><a href="https://www.buymeacoffee.com/sajjad125"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajjad125" /></a></p>
+
 
