@@ -160,7 +160,7 @@ If you find my work helpful or interesting, consider buying me a coffee! ☕
   
 <img src="https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" height="180"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=nightowl&hide_border=false)
 
 </div>
 
