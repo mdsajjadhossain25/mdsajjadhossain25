@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Md Sajjad Hossain
 
-### AI Engineer @ Deep Mind Labs AI
+### AI Researcher @ Deep Mind Labs AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Access+Control+Systems;Computer+Vision+%7C+Transformers+%7C+LLMs;Transforming+AI+Research+into+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Security+Monitoring+Systems;Computer+Vision+%7C+Transformers+%7C+LLMs;Transforming+AI+Research+into+Production)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mdsajjadhossain25&label=Profile%20views&color=6366f1&style=for-the-badge" alt="profile views"/>
@@ -22,9 +22,9 @@
 
 ## 🚀 About Me
 
-> Building production-grade AI systems with a focus on **Computer Vision** and **Face Recognition**
+> Building production-grade AI systems with a focus on **Computer Vision**
 
-I'm currently working on the **Prime Bank Access Control** project — a sophisticated face recognition–based authorization system that emphasizes accuracy, security, and real‑world reliability. My passion lies in transforming cutting-edge AI research into practical, scalable solutions.
+I'm currently working on the **Security System** project — a sophisticated face recognition–based authorization system that emphasizes accuracy, security, and real‑world reliability. My passion lies in transforming cutting-edge AI research into practical, scalable solutions.
 
 ```python
 class AIEngineer:
@@ -32,7 +32,7 @@ class AIEngineer:
         self.name = "Md Sajjad Hossain"
         self.role = "AI Engineer"
         self.company = "Deep Mind Labs AI"
-        self.current_project = "Prime Bank Access Control"
+        self.current_project = "Security System"
         self.interests = ["Computer Vision", "Transformers", "LLMs"]
         
     def get_expertise(self):
@@ -45,7 +45,7 @@ class AIEngineer:
 
 ### 💡 Quick Facts
 
-- 🔭 **Currently Working On:** Prime Bank Access Control (Face Recognition System)
+- 🔭 **Currently Working On:** (Face Recognition System)
 - 🧠 **Research Interests:** Transformers, LLMs, Representation Learning
 - 💬 **Ask Me About:** Computer Vision, Deep Learning
 - 🤝 **Open to Collaborate:** AI/ML Projects, Computer Vision Applications
