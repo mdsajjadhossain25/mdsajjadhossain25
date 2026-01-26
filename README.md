@@ -50,7 +50,7 @@ class AIEngineer:
 - 💬 **Ask Me About:** Computer Vision, Deep Learning
 - 🤝 **Open to Collaborate:** AI/ML Projects, Computer Vision Applications
 - 📫 **Reach Me:** [hmdsajjad840@gmail.com](mailto:hmdsajjad840@gmail.com)
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1ZCJCRbFQ88m5Q8veeRU0KPot_Q8PZbFQ/view?usp=sharing)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/14-5lv_mSjeES4tKCnwGhIEdfrGaSU7yI/view?usp=sharing)
 
 <br/>
 
