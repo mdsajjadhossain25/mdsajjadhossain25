@@ -136,9 +136,6 @@ I started my career as an **AI Engineer** shipping production computer-vision sy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=ec4899&text_color=9ca3af" alt="stats"/>&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajjadhossain25&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=9ca3af&langs_count=8" alt="languages"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" alt="streak"/>
 
 </div>
